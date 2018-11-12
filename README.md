@@ -40,7 +40,7 @@ def foo1():
         print e
 
 print foo1()
-
+print xxx
 '''
 
 
